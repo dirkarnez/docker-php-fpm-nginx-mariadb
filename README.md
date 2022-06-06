@@ -5,3 +5,6 @@ docker-php-fpm-nginx-mariadb
 
 ### Testing out
 - http://localhost:8000/names/hello
+
+### Reference
+- [[docker] 分別建立 Nginx 和 PHP-FPM 容器 | SLAT Blogs](https://blogs.slat.org/blog/otakupapa/42)

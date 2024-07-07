@@ -2,6 +2,7 @@ docker-php-fpm-nginx-mariadb
 ===================
 ### How to start
 - Just run `run.cmd`
+- for composer, go to Docker GUI terminal inside: `composer install` / `composer update`
 
 ### Testing out
 - http://localhost:8000/names/hello

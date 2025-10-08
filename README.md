@@ -9,3 +9,4 @@ docker-php-fpm-nginx-mariadb
 
 ### Reference
 - [[docker] 分別建立 Nginx 和 PHP-FPM 容器 | SLAT Blogs](https://blogs.slat.org/blog/otakupapa/42)
+- [stucki/docker-lemp: Run Nginx, php-fpm and MariaDB using Docker](https://github.com/stucki/docker-lemp)
